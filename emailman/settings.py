@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'emailman.urls'
+ROOT_URLCONF = 'mailon.urls'
 
 TEMPLATES = [
     {
